@@ -23,9 +23,7 @@ Zihang Zou, Boqing Gong, Liqiang Wang · **ECCV 2022**
 | 2026 | Towards Lawful Autonomous Driving: Deriving Scenario-Aware Driving Requirements from Traffic Laws and Regulations | Preprint · [arXiv](https://arxiv.org/abs/2604.24562) |
 | 2026 | Vehicle-Dynamics-Aware Motion Planning for Pothole-Hazard Mitigation | Journal of Intelligent and Connected Vehicles · [Paper](https://doi.org/10.26599/JICV.2026.9210098) · [Replication package](https://doi.org/10.26599/ETSD.2026.9190083) |
 | 2024 | Improving model robustness of traffic crash risk evaluation via adversarial mix-up under traffic flow fundamental diagram | Accident Analysis & Prevention · [Paper](https://doi.org/10.1016/j.aap.2023.107360) |
-| 2023 | The Association of Supplemental Nutrition Assistance Program Participation and Food Insufficiency among Households with Children in the United States during COVID-19 | The Journal of Nutrition · [Paper](https://doi.org/10.1016/j.tjnut.2023.08.020) |
 | 2022 | Personalized driving assistance algorithms: Case study of federated learning based forward collision warning | Accident Analysis & Prevention · [Paper](https://doi.org/10.1016/j.aap.2022.106609) · [Public full text](https://par.nsf.gov/servlets/purl/10343332) |
-| 2022 | The United States COVID-19 Forecast Hub dataset | Scientific Data · [Paper and resources](https://www.nature.com/articles/s41597-022-01517-w) |
 | 2020 | Convolutional neural networks with refined loss functions for the real-time crash risk analysis | Transportation Research Part C: Emerging Technologies · [Paper](https://doi.org/10.1016/j.trc.2020.102740) · [Public full text](https://par.nsf.gov/servlets/purl/10294992) |
 
 ## Dissertation
