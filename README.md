@@ -1,6 +1,6 @@
 # Zihang Zou
 
-[Google Scholar](https://scholar.google.com/citations?user=GLuGAK0AAAAJ&hl=en) · [Research repositories](https://github.com/zzzucf?tab=repositories)
+[Academic homepage](https://zihangzou.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=GLuGAK0AAAAJ&hl=en) · [Research repositories](https://github.com/zzzucf?tab=repositories)
 
 ## Selected research and code
 
